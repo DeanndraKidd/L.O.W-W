@@ -1,0 +1,19 @@
+body {
+  background-color:Black;
+}
+h1 {color: CornSilk;
+  font-size:25px;
+  font-size: 8.0em; /* 40px/16=2.5em */
+  text-align: center;
+  text-shadow: 4px 4px 10px grey;
+   margin:0;
+   padding:0;
+
+}
+
+p { color: CornSilk;
+  font-size: 1.0em; /* 40px/16=2.5em */
+  font-variant: small-caps;
+  text-align: center;
+  margin:0;
+  padding:0;
